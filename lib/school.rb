@@ -26,6 +26,4 @@ student_hash[grade] = students.sort
     end
     student_hash
 end
-
-        
   end
